@@ -2,7 +2,7 @@
 Analyze your income/expenses; look at your bank balance and cry.
 
 # Transactions Analysis
-This repo contains a Jupyter notebook to analyze income/expenses using the csv file that can be downloaded via DB portal.
+This repo contains a Jupyter notebook to analyze income/expenses using the csv file that can be downloaded via Deutsche Bank portal.
 
 # Requirements
 ```
